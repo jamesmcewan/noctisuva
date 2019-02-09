@@ -16,7 +16,7 @@ let s:p_red = ["#ff5370", 204, 1]
 let s:p_dark_yellow = ["#e66533", 173, 11]
 let s:p_cyan = ["#33e4ff", 38, 6]
 let s:p_comment_grey = ["#c5c2d6", 59, 15]
-let s:p_black = ["#1f1d30", 235, 0]
+let s:p_black = ["#1B1B2C", 235, 0]
 
 let s:p.normal.left     = [ [ s:p_black, s:p_purple ], [ s:p_purple, s:p_menu_grey ] ]
 let s:p.normal.right    = copy(s:p.normal.left)
