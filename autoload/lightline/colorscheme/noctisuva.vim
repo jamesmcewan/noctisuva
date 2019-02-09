@@ -1,10 +1,10 @@
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 
-let s:p_vertsplit = ["#1f1d30", 59, 15]
+let s:p_vertsplit = ["#1B1B2C", 59, 15]
 let s:p_special_grey = ["#c5c2d6", 238, 15]
-let s:p_menu_grey = ["#66767f", 237, 8]
+let s:p_menu_grey = ["#141320", 237, 8]
 let s:p_cursor_grey = ["#c5c2d6", 236, 8]
-let s:p_gutter_fg_grey = ["#4B5263", 238, 15]
+let s:p_gutter_fg_grey = ["#171524", 238, 15]
 let s:p_blue = ["#49ace9", 39, 4]
 let s:p_dark_red = ["#ff4d8b", 196, 9]
 let s:p_white = ["#c5dee2", 145, 7]
